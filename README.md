@@ -1,7 +1,5 @@
 # hw01ml
-# პროექტის სახელი
-
-House Prices - Advanced Regression Techniques (Kaggle Competition)
+# House Prices - Advanced Regression Techniques (Kaggle Competition)
 
 # პროექტის მიმოხილვა
 
