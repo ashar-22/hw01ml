@@ -57,7 +57,7 @@ Random Forest Regressor
 
 XGBoost Regressor
 
-### Hyperparameter Optimization Approach
+### Hyperparameter ოპტიმიზაციის მიდგომა
 
 GridSearchCV გამოვიყენე hyperparameter ოპტიმიზაციისათვის.პარამეტრების გრიდი იყო აღწერილი ყოველი მოდელისთვის და cross-validation იქნა ჩატარებული რომ დაგვედგინა საუკეთესო პარამეტრები.
 
