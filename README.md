@@ -107,6 +107,7 @@ R²: 0.9005
 ### MLflow ექსპერიმენტების ბმული
 
 https://dagshub.com/ashar-22/hw01ml.mlflow/#/experiments/1?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
+
 https://dagshub.com/ashar-22/hw01ml.mlflow/#/experiments/0?searchFilter=attributes.user_id%20%3D%20'ashar-22'
 
 ### ჩაწერილი მეტრიკების აღწერა
